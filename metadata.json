@@ -1,0 +1,5 @@
+{
+  "name": "Secretaria Digital Chat",
+  "description": "Interface de chat inteligente para consulta de legislação e pautas, estilo Gemini.",
+  "requestFramePermissions": []
+}
