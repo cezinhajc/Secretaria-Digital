@@ -88,7 +88,7 @@ const App: React.FC = () => {
       </main>
 
       {/* Input Footer */}
-      <footer className={`w-full p-4 md:pb-6 md:pt-2 bg-gradient-to-t from-[#131314] via-[#131314] to-transparent z-20 flex flex-col items-center ${isChatEmpty ? 'absolute bottom-[20vh] md:bottom-[25vh]' : 'sticky bottom-0'}`}>
+      <footer className={`w-full p-4 md:pb-6 md:pt-2 bg-gradient-to-t from-[#131314] via-[#131314] to-transparent z-20 flex flex-col items-center ${isChatEmpty ? 'absolute bottom-[35vh] md:bottom-[25vh]' : 'sticky bottom-0'}`}>
         
         {isChatEmpty && (
           <div className="w-full max-w-3xl flex flex-col items-center mb-8 animate-fade-in">
